@@ -1,4 +1,4 @@
-# My-recommender
+# smart movie recommender
 current dataset recource is [here](https://data.world/robertjoellewis/film-subtitles)
 
 looking for to get more from:
