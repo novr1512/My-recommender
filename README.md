@@ -31,6 +31,8 @@ tags are distrbuted in 2 files:
 - genome-tags : which includes the tags id and the tag name
 - genome-scores : which includes the tage id, the movie id and the relevance between them (at scale from 0 to 1)
 
+The data is not included in the repo due to its large size but it can be found in the following link
+
 current dataset recource is [here](https://grouplens.org/datasets/movielens/25m/)
 
 References :
